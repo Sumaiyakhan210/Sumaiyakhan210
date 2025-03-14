@@ -1,6 +1,7 @@
 -  Hi, It’s  @Sumaiyakhan210
 -  I’m interested in programming 
-- I’m currently learning c
+- learnt the basic of c
+- currently learning c++
 -
 
 <!---
