@@ -1,4 +1,4 @@
--  Hi, It’s  @Sumaiyakhan210
+
 -  I’m interested in programming 
 - learnt the basic of c
 - currently learning c++
